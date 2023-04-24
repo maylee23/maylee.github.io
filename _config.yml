@@ -1,8 +1,8 @@
 title:              maylee blog
-email:              lchoa92l@gmail.com
+email:              lchoa92@gmail.com
 description:        Tech blog.
 author:             maylee
-baseurl:            "/"
+baseurl:            "/maylee.github.io"
 url:                "https://maylee.github.io"
 
 # Social Profiles
