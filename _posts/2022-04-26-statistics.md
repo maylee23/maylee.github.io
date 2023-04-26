@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[데이터 블로그 챌린지] 2일차"
-subtitle: "데이터분석가에게 코딩테스트가 필요할까?"
+title: "[데이터 블로그 챌린지] 3일차"
+subtitle: "통계학이 제품 분석의 실제 도구가 되는 과정"
 date: 2023-04-26 00:00:00 -0100
 background: '/img/posts/06.jpg'
 ---
