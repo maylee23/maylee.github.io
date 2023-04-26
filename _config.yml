@@ -4,6 +4,7 @@ description:        Tech blog.
 author:             maylee
 #baseurl:            "/"
 url:                "https://maylee.github.io"
+timezone: Asia/Seoul
 
 # Social Profiles
 #twitter_username:   SBootstrap
