@@ -14,7 +14,7 @@ background: '/img/posts/06.jpg'
 #### 제목
 
 ES - Elasticsearch 개요와 기본기
-</br>
+
 
 
 #### 요약
@@ -27,7 +27,6 @@ Elasticsearch는 ELK stack 이라고 불리는 오픈 소스에 Beats가 추가�
 3. 데이터 검색 및 분석 (Elasticsearch): 대용량 lookup 지원.
 4. 데이터시각화 (Kibana): 시실간 분석 및 dash board 구현 가능.
 
-</br>
 
 ##### Elasticsearch를 사용하는 대표적인 기업들
 
@@ -35,7 +34,6 @@ Elasticsearch는 ELK stack 이라고 불리는 오픈 소스에 Beats가 추가�
 2. YELP: 맛집을 찾아주는 사이트로, search에 사용.
 3. Tinder: 세계 최대 데이팅 앱. 빠르게 데이팅 상대를 추천하고 정보를 제공하는데 사용.
 4. Activision Blizzard: 모니터링 시스템을 Kibana로 구축하여 실시간 서버 모니터링.
-</br>
 
 
 ##### Elasticsearch 관련 certificate
@@ -43,7 +41,8 @@ Elasticsearch는 ELK stack 이라고 불리는 오픈 소스에 Beats가 추가�
 2. Elastic Certified Analyst: Kibana 전문자격. 데이터 시각화 및 분석 전문가
 3. Elastic Certified Observability Engineer: 모니터링 이벤트 대처 전문가.
 
-</br>
+
+
 
 
 #### 인사이트
