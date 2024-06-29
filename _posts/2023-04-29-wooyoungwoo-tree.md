@@ -10,13 +10,12 @@ background: '/img/posts/06.jpg'
 
 다음의 링크를 참고하였습니다: ['우영우' 속 팽나무, 데이터로 바라본다면?](https://newsjel.ly/archives/newsjelly-report/14543)
 
-##
 
 #### 제목
 
 '우영우' 속 팽나무, 데이터로 바라본다면?
 
-##
+
 
 #### 요약
 
@@ -55,7 +54,7 @@ background: '/img/posts/06.jpg'
 - 그 이후 현재까지도 꾸준히 보호수를 지정하는 노력이 이루어지고 있다.
 
 
-##
+
 
 #### 인사이트
 
